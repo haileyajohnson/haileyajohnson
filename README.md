@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![An image of @haileyajohnson's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/haileyajohnson)](https://holopin.io/@haileyajohnson)
+
 <!--
 **haileyajohnson/haileyajohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
